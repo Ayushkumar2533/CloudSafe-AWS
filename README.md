@@ -71,6 +71,8 @@ CloudSafe/
 ## 👨‍💻 Author
 
 Author:Ayush Kumar
+
 AWS Account provided by: Ayush Chandra
+
 This project was created as a cloud computing hackathon project to demonstrate practical implementation of AWS storage, security, recovery, lifecycle management, and auditing concepts.
 
