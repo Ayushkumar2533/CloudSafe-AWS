@@ -60,12 +60,30 @@ Implementation and testing screenshots are available in the `screenshots` folder
 CloudSafe/
 │
 ├── README.md
+│
 ├── screenshots/
-│   ├── AWS project screenshots
-│   └── testing evidence
+│   ├── s3_bucket.jpeg
+│   ├── versioning_enabled.jpeg
+│   ├── multiple_versions.jpeg
+│   ├── accidental_file-deletion.jpeg
+│   ├── lifecycle_cost-optimization.jpeg
+│   ├── IAM_Access_control.jpeg
+│   ├── cloudtrail_testing.jpeg
+│   └── README.md
+│
+├── architecture/
+│   ├── CloudSafe-Architecture.png
+│   └── README.md
 │
 └── CloudSafe-Hackathon-Presentation.pptx
 ```
+
+### Folder Description
+
+* **`README.md`** – Main project documentation, objectives, AWS services, features, architecture, and project details.
+* **`screenshots/`** – Contains screenshots showing AWS configuration and testing.
+* **`architecture/`** – Contains the CloudSafe AWS architecture diagram.
+* **`CloudSafe-Hackathon-Presentation.pptx`** – Hackathon presentation containing the project explanation and presentation material.
 
 
 ## 👨‍💻 Author
