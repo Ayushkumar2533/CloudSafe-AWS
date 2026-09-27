@@ -67,15 +67,10 @@ CloudSafe/
 └── CloudSafe-Hackathon-Presentation.pptx
 ```
 
-## 🎓 Hackathon Project
-
-**Project:** CloudSafe
-**Problem:** Secure Cloud File Storage & Recovery System
-**Platform:** Amazon Web Services (AWS)
 
 ## 👨‍💻 Author
 
-Ayush Kumar
-
+Author:Ayush Kumar
+AWS Account provided by: Ayush Chandra
 This project was created as a cloud computing hackathon project to demonstrate practical implementation of AWS storage, security, recovery, lifecycle management, and auditing concepts.
 
